@@ -243,12 +243,10 @@ We cover **100+ brands** and **10,000+ devices**!
 |-----------|----------|
 | 📱 **Total Devices** | 10,000+ |
 | 🏢 **Brands Covered** | 100+ |
-| 👥 **Active Users** | 50,000+ |
 | ⭐ **Average Rating** | 4.8/5 |
 | 🔄 **Daily Updates** | Yes |
 | 🌍 **Countries** | 25+ |
 | 💬 **Languages** | 2 (AR/EN) |
-| 📲 **Downloads** | 100,000+ |
 
 </div>
 
@@ -376,7 +374,6 @@ Yes! We offer business plans for repair shops, accessory stores, and distributor
 |----------------|------|---------------|
 | 📧 **Email Support** | contact@badilk.com | 24-48 hours |
 | 🌐 **Help Center** | [badilk.com/support](https://badilk.com/support) | Instant |
-| 💬 **Telegram Community** | [@badilk_support](https://t.me/badilk_support) | < 12 hours |
 | 🐛 **Report Bug** | [GitHub Issues](https://github.com/haithemnini/badilk-app/issues) | 48 hours |
 
 ### Premium Support 👑
