@@ -12,7 +12,7 @@
 [![Version](https://img.shields.io/badge/version-1.0.1-blue.svg)](https://github.com/haithemnini/badilk-app/releases)
 [![Flutter](https://img.shields.io/badge/Flutter-3.9.2-02569B?logo=flutter)](https://flutter.dev)
 
-**Available on Android • iOS • Web • Windows • macOS • Linux**
+**Available on Android **
 
 <img width="2400" height="1800" alt="App Preview" src="https://github.com/user-attachments/assets/9134e92f-41a1-4d5f-9fd3-6b2fda2c7afe" />
 
