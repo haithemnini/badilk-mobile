@@ -1,0 +1,24 @@
+# Public repository - only documentation and assets
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Build artifacts (if any)
+build/
+dist/
+
+# Node modules (if using for docs)
+node_modules/
