@@ -552,9 +552,8 @@ It helps us reach more users and motivates us to keep improving the app.
 
 ---
 
-### 💝 Made with Love in Iraq 🇮🇶
-
-**© 2026 Badilk. All Rights Reserved.**
+### 💝 Made with Love in Algerian 🇩🇿
+*© 2026 Badilk. All Rights Reserved.**
 
 **Version 1.1.2** • **Last Updated: January 2026**
 
